@@ -81,13 +81,13 @@ difference() {
     translate([0,30,0]) {
         #cylinder(r=r_top_hole, h=(h+2), $fn=100, center=true);
     }
-    translate([0,40,0]) {
+    translate([0,42,0]) {
         #cylinder(r=r_top_hole, h=(h+2), $fn=100, center=true);
     }
-    translate([0,50,0]) {
+    translate([0,54,0]) {
         #cylinder(r=r_top_hole, h=(h+2), $fn=100, center=true);
     }
-    translate([0,60,0]) {
+    translate([0,66,0]) {
         #cylinder(r=r_top_hole, h=(h+2), $fn=100, center=true);
     }
 }
